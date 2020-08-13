@@ -1,4 +1,4 @@
-# design_parttern
+# design_pattern
 Design pattern with golang. There are 3 categories in design pattern.
 
 - Creational Patterns
